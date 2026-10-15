@@ -1,4 +1,4 @@
-# Your Name
+# Nabila Fairuz
 
 - **GitHub:** [@your-github-username](https://github.com/NabilaFairuz25)
 - **Major:** CSE
